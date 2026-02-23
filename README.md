@@ -7,7 +7,7 @@
 <p>I am an Astronomer Programmer, Artist and Musician.</p>
 <img align="right" height="180px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw2MGR1cGlidnZ0OGduaXg1Y2M0NnVzYmprOHNvOXAydGhtN25raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif">
 <ul>
-  <li>🌞 Hi, I’m @Msoledildayana, but you can call me Sol</li>
+  <li>🌞 Hi, I’m @soleildayana, but you can call me Sol</li>
   <li>❤️ I love fusioning science, arts and technology.</li>
   <li>🌱 I’m currently studying at Universidad de Antioquia. I want to be radioastronommer</li>
   <li>💼 I do science divulgation</li>
