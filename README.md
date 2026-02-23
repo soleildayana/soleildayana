@@ -29,6 +29,6 @@ const sol = {
 
 <br>
 
-[![@soleildayana](https://img.icons8.com/fluency/48/000000/instagram-new.png "@soleildayana")](https://www.instagram.com/soleildayana/) [![@0soloculto0@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@0soloculto0@gmail.com")](0soloculto0@gmail.com)
+[![@soleildayana](https://img.icons8.com/fluency/48/000000/instagram-new.png "My Instagram")](https://www.instagram.com/soleildayana/) [![@0soloculto0@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "My Email")](0soloculto0@gmail.com)
 
 <br>
