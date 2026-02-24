@@ -1,11 +1,12 @@
 <p align="center">
   <h1 align="center"><a href="https://github.com/MrBlueBird2">Soleil</a>'s Profile  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1></h1>
 </p>
+<img align="right" height="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw2MGR1cGlidnZ0OGduaXg1Y2M0NnVzYmprOHNvOXAydGhtN25raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif">
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+proto-Astronomer;I'm+a+science+divulgator;I'm+an+artist" /></a>
 </p>
 <p>I am an Astronomer Programmer, Artist and Musician.</p>
-<img align="right" height="180px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw2MGR1cGlidnZ0OGduaXg1Y2M0NnVzYmprOHNvOXAydGhtN25raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif">
+
 <ul>
   <li>🌞 Hi, I’m @soleildayana, but you can call me Sol</li>
   <li>❤️ I love fusioning science, arts and technology.</li>
