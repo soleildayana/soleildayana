@@ -24,7 +24,6 @@ const sol = {
   repositories: ["Positional astronomy", "planetary science", "wave physics", "numerical methods", "celestial mechanics"],
   instruments: ["drums", "guitar", "kalimba", "glockenspiel", "ukulele", "bass", "ocarina", "handpan"]
   }
-}
 ```
 ## Connect with me ☕ :
 
