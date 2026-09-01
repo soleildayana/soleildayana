@@ -20,9 +20,7 @@
 const sol = {
   pronouns: "She" | "Them",
   science_communication: ["Hermes - Mensajeros de la ciencia", "El Divulgatorio", "Fases-Revista Estudiantil"],
-  code: ["Python"],
-  repositories: ["Positional astronomy", "planetary science", "wave physics", "numerical methods", "celestial mechanics"],
-  instruments: ["drums", "guitar", "kalimba", "glockenspiel", "ukulele", "bass", "ocarina", "handpan"]
+instruments: ["drums", "guitar", "kalimba", "glockenspiel", "ukulele", "bass", "ocarina", "handpan"]
   }
 ```
 ## Connect with me ☕ :
